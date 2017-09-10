@@ -1,10 +1,18 @@
 # Assignment #3: Week 37
 
-## Introduction to Software Engineering
+## Software Engineering
 
 ### Exercise 1
+1. Can the system under consideration be represented as an actor? Justify your answer.
+2. What is the difference between a scenario and a use case? When do you use each construct?
+3. What is the difference between a state machine diagram activity diagram?
 
-Question...
+### Exercise 2
+1. __Draw__ a use case diagram for a ticket distributor for a train system. The system includes two actors: a traveler, who purchases different types of tickets, and a central computer system, which maintains a reference database for the tariff. Use cases should include: BuyOneWayTicket, BuyWeeklyCard, BuyMonthlyCard, UpdateTariff. Also include the following exceptional cases: Time-Out (i.e., traveler took too long to insert the right amount), TransactionAborted (i.e., traveler selected the cancel button without completing the transaction), DistributorOutOfChange, and DistributorOutOfPaper.
+
+### Exercise 3
+1. Consider the process of ordering a pizza over the phone. Draw an activity diagram representing each step of the process, from the moment you pick up the phone to the point where you start eating the pizza. Do not represent any exceptions. Include activities that others need to perform.
+2. Add exception handling to the activity diagram you developed in the previous exercise. Consider at least three exceptions. You can for instance use the following: delivery person wrote down wrong address, deliver person brings wrong pizza, store out of anchovies.
 
 ## C&#35;
 
